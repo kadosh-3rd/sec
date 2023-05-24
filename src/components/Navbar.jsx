@@ -52,7 +52,7 @@ const Navbar = () => {
 							className={pathname === '/' ? activeLink : inactiveLink}
 							to='/'
 						>
-							Home
+							HomeX
 						</Link>
 					</li>
 					<li className='text-gray-300'>
