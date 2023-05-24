@@ -1,3 +1,3 @@
-# Exposé en cours de Virtualisation et Stockage
+# Exposé de cours en Sécurité Réseaux
 
-## Thème : VIRTUALIZATION & CLOUD COMPUTING
+## Thème : MISE EN EVIDENCE & SOLUTIONS DE POTENTIELLES FAILLES DE SECURITE DES APPS (ENTREPRISES) HEBERGEES EN LOCAL

@@ -4,12 +4,14 @@
 
 @layer utilities {
 	::-webkit-scrollbar {
-		width: 6px;
-		height: 6px;
+		width: 8px;
+		height: 8px;
+		z-index: 10;
 	}
 
 	::-webkit-scrollbar-track {
 		background: transparent;
+		/* background: #dddadc; */
 	}
 
 	::-webkit-scrollbar-thumb:hover {
